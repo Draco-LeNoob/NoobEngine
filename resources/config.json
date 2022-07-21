@@ -1,0 +1,25 @@
+{
+  "engine":  {
+    "fps_limit": 75,
+    "jfx": {
+      "arguments": ""
+    },
+    "window": {
+      "title": "NoobEngine",
+      "background_color": {
+        "red": 160,
+        "green": 180,
+        "blue": 150,
+        "alpha": 255
+      },
+      "size": {
+        "width": 1080,
+        "height": 720
+      },
+      "resizable": false,
+      "always_on_top": false,
+      "fullscreen": false,
+      "exit_on_close": true
+    }
+  }
+}
